@@ -18,4 +18,4 @@
 
 5. Номер договора пополнения 
 
-![](prior.cardinfo.site.moble.png)
+![](5.prior.cardinfo.site.moble.png)
