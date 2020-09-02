@@ -1,3 +1,5 @@
+[Старонка на мове](https://github.com/stadub/NaKartu/blob/master/Banks/Priorbank.by.md)
+
 # Пополнение карты Приорбанк через ЕРИП
 ## Как узнать номер счета
 
