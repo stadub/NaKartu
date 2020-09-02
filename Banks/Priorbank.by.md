@@ -1,3 +1,6 @@
+[Стараница на русском ](https://github.com/stadub/NaKartu/blob/master/Banks/Priorbank.md)
+
+
 # Папаўненне карты Прыорбанк праз ЕРІП
 ## Як даведацца нумар рахунку
 
